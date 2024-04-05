@@ -24,7 +24,7 @@
     "@nuxt/http": "^0.6.2",
     "cookie-universal-nuxt": "^2.1.4",
     "defu": "^3.2.2",
-    "destr": "^1.1.0",
+    "destr": "^2.0.3",
     "hookable": "^4.4.0",
     "ms": "^2.1.3",
     "requrl": "^3.0.2",
